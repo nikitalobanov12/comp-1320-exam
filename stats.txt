@@ -1,0 +1,23 @@
+Q1: 
+╔═════════════════════╤══════════╤══════════╗
+║ Name                │ Country  │ Weight   ║
+╟─────────────────────┼──────────┼──────────╢
+║ Cozmo Yakunikov     │ China    │ 72.57472 ║
+╟─────────────────────┼──────────┼──────────╢
+║ Prinz Prevost       │ Portugal │ 71       ║
+╟─────────────────────┼──────────┼──────────╢
+║ Federico McCafferty │ Canada   │ 70       ║
+╟─────────────────────┼──────────┼──────────╢
+║ Hayes Petrol        │ China    │ 70       ║
+╟─────────────────────┼──────────┼──────────╢
+║ Reece Wolton        │ Canada   │ 69       ║
+╚═════════════════════╧══════════╧══════════╝
+
+Q2: TALLEST PLAYER:
+The tallest female basketball player from China is Gayel Ockleshaw, 213.36cm tall.
+
+Q3: GAMES WHERE CHINA SCORED OVER 50 POINTS
+ 2 
+
+Q4: HIGHEST SCORING MALE CANADIAN PLAYER:
+Oswell Vogele with 35 points total.
